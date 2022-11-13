@@ -1,8 +1,8 @@
 ## Olá! eu sou Eric Dellai Camargo, estudante de Análise e Desenvolvimento de Sistemas👋
 <div align="center">
   <a href="https://github.com/EricDCamargo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricDCamargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDCamargo&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EricDCamargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDCamargo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
