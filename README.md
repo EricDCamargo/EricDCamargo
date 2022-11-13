@@ -1,9 +1,7 @@
 ## Olá! eu sou Eric Dellai Camargo 👋
 
-- 📚 I’m studing at Fatec-Itu
-- 💻 I’m currently learning frontend
-- 📫 How to reach me: ericdcamargo@gmail.com
-- 😄 Pronouns: ele/dele
+- 🎓 Cursando ADS na Fatec-Itu
+- 💻 Estudando desenvolvimento FRONTEND
 
 <div align="center">
   <a href="https://github.com/EricDCamargo">
