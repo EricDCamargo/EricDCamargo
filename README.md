@@ -12,8 +12,9 @@
   <img align="center" alt="Eric-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Eric-pic" height="30%" width="30%" src="https://im5.ezgif.com/tmp/ezgif-5-12c9d02f07.gif">
+  <img align="right" alt="Eric-pic" height="30%" width="30%" src="https://user-images.githubusercontent.com/100168246/204028919-aaa7f858-eeb0-4f02-8a0d-c102762bc3aa.gif">
 </div>
+
 
   ##
  
